@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/legendary-adventure/static/css/main.9d9614b6.css",
+    "main.js": "/legendary-adventure/static/js/main.0b30f78d.js",
+    "static/media/keywest.jpg": "/legendary-adventure/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/legendary-adventure/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/legendary-adventure/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/legendary-adventure/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/legendary-adventure/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/legendary-adventure/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/legendary-adventure/index.html",
+    "main.9d9614b6.css.map": "/legendary-adventure/static/css/main.9d9614b6.css.map",
+    "main.0b30f78d.js.map": "/legendary-adventure/static/js/main.0b30f78d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d9614b6.css",
+    "static/js/main.0b30f78d.js"
+  ]
+}
